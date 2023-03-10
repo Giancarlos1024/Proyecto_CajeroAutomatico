@@ -1,8 +1,16 @@
 PROYECTO : CAJERO AUTOMATICO
 
-CREADOR : GIANCARLOS
+LENGUAJE DE PROGRAMACION : C #
+
+APLICACION DE CONSOLA (.NET Framework) : 
+
+-Proyecto para crear una aplicacion de linea de comandos.
+
+CREADOR : Giancarlos Renzo
 
 CANAL : LA ERA DE LA PROGRAMACION
+
+LINK : https://www.youtube.com/@Programacion2023
 
 !SUSCRIBETE Y DALE LIKE, SI TE PUDE AYUDAR EN ALGO COMPAÑERO¡
 
